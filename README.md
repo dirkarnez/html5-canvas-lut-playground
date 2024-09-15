@@ -12,3 +12,4 @@ html5-canvas-lut-playground
     #define LUT_FULL_WIDTH LUT_SQUARE_DIM*LUT_SQUARE_DIM
     unsigned char* lut = new unsigned char[LUT_FULL_WIDTH * LUT_SQUARE_DIM * 3];
     ```
+- [【C++ OpenCV】LUT查找表原理、实操、使用时机_opencv lut-CSDN博客](https://blog.csdn.net/dagengen12138/article/details/131204843)
